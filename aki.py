@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random
 
-df = pd.read_csv("/Users/praharshgurudatta/Desktop/imdb_top_1000.csv")
+df = pd.read_csv("imdb_top_1000.csv")
 
 Genres = {}
 actors = {}
